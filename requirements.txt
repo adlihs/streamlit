@@ -1,4 +1,4 @@
-bokeh==2.4.1
+bokeh==2.4.3
 holoviews
 mplsoccer==1.0.7
 pandas
