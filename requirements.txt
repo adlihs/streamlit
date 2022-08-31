@@ -4,6 +4,5 @@ mplsoccer==1.0.7
 pandas
 pandasql
 streamlit
-PIL
 pySankey
 matplotlib
