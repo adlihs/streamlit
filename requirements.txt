@@ -6,3 +6,4 @@ pandasql
 streamlit
 pySankey
 matplotlib
+openpyxl
