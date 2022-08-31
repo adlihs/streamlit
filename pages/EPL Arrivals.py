@@ -52,7 +52,7 @@ st.markdown(
 
 ###### arrivals_position Graph display ######
 arrivals_position_data = hv.Sankey(arrivals_position)
-arrivals_position_sankey = hv.render(arrivals_position_data.opts(width=700, 
+arrivals_position_sankey = hv.render(arrivals_position_data.opts(width=900, 
                                                height=2000,
                                                label_position='left', 
                                                edge_color=dim('team_name').str(),
